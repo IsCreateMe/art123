@@ -15,6 +15,7 @@
 		1800D88B1C474ECA00282DED /* ButtonLabelControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 1800D88A1C474ECA00282DED /* ButtonLabelControl.m */; };
 		1800D88E1C47A1E000282DED /* MyMD5.m in Sources */ = {isa = PBXBuildFile; fileRef = 1800D88D1C47A1E000282DED /* MyMD5.m */; };
 		1800D8911C47A4FF00282DED /* RelationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1800D8901C47A4FF00282DED /* RelationController.m */; };
+		1812E6F71C489B0D00906CB7 /* FreeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1812E6F61C489B0D00906CB7 /* FreeView.m */; };
 		18599C351C46339D0016C39C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18599C341C46339D0016C39C /* main.m */; };
 		18599C381C46339D0016C39C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18599C371C46339D0016C39C /* AppDelegate.m */; };
 		18599C3E1C46339D0016C39C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18599C3C1C46339D0016C39C /* Main.storyboard */; };
@@ -124,6 +125,8 @@
 		1800D88D1C47A1E000282DED /* MyMD5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyMD5.m; sourceTree = "<group>"; };
 		1800D88F1C47A4FF00282DED /* RelationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RelationController.h; sourceTree = "<group>"; };
 		1800D8901C47A4FF00282DED /* RelationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RelationController.m; sourceTree = "<group>"; };
+		1812E6F51C489B0D00906CB7 /* FreeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FreeView.h; sourceTree = "<group>"; };
+		1812E6F61C489B0D00906CB7 /* FreeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FreeView.m; sourceTree = "<group>"; };
 		18599C301C46339D0016C39C /* art.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = art.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18599C341C46339D0016C39C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18599C361C46339D0016C39C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -589,6 +592,8 @@
 				18599D5A1C4668E00016C39C /* MyDataService.m */,
 				1800D8891C474ECA00282DED /* ButtonLabelControl.h */,
 				1800D88A1C474ECA00282DED /* ButtonLabelControl.m */,
+				1812E6F51C489B0D00906CB7 /* FreeView.h */,
+				1812E6F61C489B0D00906CB7 /* FreeView.m */,
 				1800D88C1C47A1E000282DED /* MyMD5.h */,
 				1800D88D1C47A1E000282DED /* MyMD5.m */,
 			);
@@ -976,6 +981,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1812E6F71C489B0D00906CB7 /* FreeView.m in Sources */,
 				18599D491C4642680016C39C /* SYItemView.m in Sources */,
 				18599D191C463E990016C39C /* UIButton+WebCache.m in Sources */,
 				18599D551C464F350016C39C /* LoginView.m in Sources */,
